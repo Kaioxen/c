@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	int x = 1;
-	printf("%d", x);
+	int x = 65;
+	printf("%c", x);
 	return 0;
 }
