@@ -6,7 +6,7 @@ int main()
 	int _age = 17;
 	
 	printf("Hello my name is %s\n", _firstName);
-	printf("_age %d", _age);
+	printf("_age %d years old", _age);
 	
 	
 	return 0;
