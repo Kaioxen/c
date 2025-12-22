@@ -1,4 +1,3 @@
-/*
  * hello.c - My first C program
  * Author: Kaioxen (Wildan Hermawan)
  * Date: 2025-12-21
