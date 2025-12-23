@@ -18,10 +18,13 @@
 int main()
 {
 	int _a = 12;
-	int _b = 13;
+	int _b = 32;
+	int _c = 1232;
 	int _sum = _a + _b;
+	int _values = _a + _b +_c;
+	
 
-	printf("hasil %d", _sum);
+	printf("hasil %d", _sum + _values);
 	
 }
 
