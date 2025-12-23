@@ -1,29 +1,28 @@
+# C Learning Journey - Kaioxen
 
-```markdown
-# 🚀 C Learning Journey - Kaioken
-
-> "belajar ke dunia sistem programming"  
+> "Belajar ke dunia sistem programming"
 
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Progress](https://img.shields.io/badge/Progress-25%25-blue?style=for-the-badge)
 
-## 📌 About This Journey
+## About This Journey
 Sebuah eksperimen pembelajaran bahasa C dalam lingkungan unik:
+
 - **Device**: Xiaomi Redmi Note 5A (3GB free storage)
 - **Environment**: Ubuntu 22.04 via chroot on Android 10
 - **Compiler**: GCC 11.4.0 (aarch64)
 - **Mindset**: Consistency over speed, understanding over memorizing
 
-## 🎯 Current Progress
-### Level 1: Variables & Basic I/O ✅
+## Current Progress
+### Level 1: Variables & Basic I/O
 - [x] Hello World & basic printf
-- [x] Integer, float, char variables  
+- [x] Integer, float, char variables
 - [x] Format specifiers (%d, %f, %c, %s)
 - [x] Basic arithmetic in C
 
-### Level 2: Control Flow (In Progress...)
+### Level 2: Control Flow (In Progress)
 - [ ] Conditional statements (if/else)
 - [ ] Loops (for, while)
 - [ ] Switch cases
@@ -33,17 +32,15 @@ Sebuah eksperimen pembelajaran bahasa C dalam lingkungan unik:
 - [ ] Memory addresses
 - [ ] Arrays and strings
 
-```
-
-## 🏆 Achievement Unlocked
+## Achievement Unlocked
 | Badge | Milestone | Status |
 |-------|-----------|--------|
-| 🎮 | **Kernel Hacker** - Compile Android kernel | ✅ |
-| ⚡ | **Terminal Warrior** - Ubuntu via chroot | ✅ |
-| 🚀 | **C Initiate** - First 8 C programs compiled | ✅ |
-| 💪 | **Consistency** - 3+ days coding streak | 🔄 |
+| Kernel Hacker | Compile Android kernel | ✅ |
+| Terminal Warrior | Ubuntu via chroot | ✅ |
+| C Initiate | First 8 C programs compiled | ✅ |
+| Consistency | 3+ days coding streak | 🔄 |
 
-## 💫 Philosophy
+## Philosophy
 ```c
 // Kaioxen's Manifesto
 #define PASSION       as_fuel
@@ -56,48 +53,3 @@ while(learning) {
         skill++;  // Level up!
     }
 }
-```
-
-🗂️ Project Structure
-
-```
-c-learning-journey/
-├── 00-getting-started/
-│   ├── basics/           # Hello world & struktur program
-│   ├── variables/        # Tipe data dasar
-│   └── exercises/        # Latihan kombinasi konsep
-├── Documentation/        # Spesifikasi sistem & catatan
-└── README.md            # Kamu sedang membaca ini
-```
-
-
-🚀 Next Steps
-
-Immediate Goals:
-
-1. User Input: Master scanf() for interactive programs
-2. Conditionals: Implement if/else for decision making
-3. Mini Project: Build a simple calculator
-
-Weekly Target:
-
-· Complete 5 programs with user input
-· Understand basic control flow
-· Push updates to GitHub repository
-
-🔗 Connect
-
-· GitHub: github.com/Kaioxen
-· Email: hermawanwildan78@gmail.com
-· Collaboration: Open for C/system programming discussions!
-
----
-
-🔥 Powered by: Passion × Consistency × Kaioxen Spirit
-🎯 2025 Goal: Contribute to open-source kernel/Android projects
-📌 Motto: "Constraint breeds creativity, limitation fuels innovation"
-
-Documentation evolves with every compiled program
-
-```
-
