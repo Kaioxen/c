@@ -4,7 +4,6 @@
 
 > "belajar ke dunia sistem programming"  
 
-
 ![C Language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -33,17 +32,6 @@ Sebuah eksperimen pembelajaran bahasa C dalam lingkungan unik:
 - [ ] Pointers concept
 - [ ] Memory addresses
 - [ ] Arrays and strings
-
-## 📈 Progress Dashboard
-```
-
-🎯 TARGET: MASTER C SYSTEM PROGRAMMING
-├───Foundation (40%) ════════════╗░░░░░░░░░░░░░░░░░░░░░
-├───Memory & Pointers (0%) ══════╝░░░░░░░░░░░░░░░░░░░░░
-└─── System Programming (0%) ░░░░░░░░░░░░░░░░░░░░░░░░░░░
-
-📦 Files Created: 8  |  🏗️ Last Compiled: Today
-💾Storage Used: 150KB/3GB  |  🔥 Streak: 3 days
 
 ```
 
@@ -82,29 +70,6 @@ c-learning-journey/
 └── README.md            # Kamu sedang membaca ini
 ```
 
-🗺️ Learning Roadmap
-
-```
-         [📍 KAMU DISINI]
-              ↓
-  ┌─────────────────────┐
-  │ 00. Basics          │ ◀── 8/8 files
-  │    • Variables      │
-  │    • I/O            │
-  └─────────────────────┘
-              ↓
-  ┌─────────────────────┐
-  │ 01. Control Flow    │
-  │    • if/else        │
-  │    • Loops          │ ← NEXT WEEK
-  └─────────────────────┘
-              ↓
-  ┌─────────────────────┐
-  │ 02. Memory & Systems│
-  │    • Pointers       │ ← SYSTEM!
-  │    • Kernel concepts│
-  └─────────────────────┘
-```
 
 🚀 Next Steps
 
