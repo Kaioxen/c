@@ -7,7 +7,7 @@ int main()
 	char *_y;
 	char *_w;
     char *_grade;
-    char *_hello, _my, _name, _is, _wildan; 
+    char *_hello, *_my, *_name, *_is, *_wildan; 
 
     _hello = "Hello";
     _my = "my";
@@ -24,6 +24,6 @@ int main()
     printf("%s\n %s\n %s\n %s\n ", _x, _z, _y, _w);  
 
 
-    printf("%s\n %s\n $s\n %s\n %s\n ", _hello, _my, _name, _is, _wildan);
+    printf("%s\n %s\n $s\n %s\n %s\n ", *_hello, *_my, *_name, *_is, *_wildan);
 	return 0;
 }
