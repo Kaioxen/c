@@ -9,8 +9,8 @@ int main()
     char *_grade;
     char _hello[] = "Hello";
     char _my[] = "my";
-    char _name = "name";
-    char _is = "is";
+    char _name[] = "name";
+    char _is[] = "is";
     char _wildan[] = "Wildan Hermawan";
     
 /*
