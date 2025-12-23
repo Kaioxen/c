@@ -1,0 +1,50 @@
+# .gitignore Project C Learning Journey
+
+# File binary hasil compile
+*.exe
+*.out
+*.o
+*.a
+*.so
+*.dll
+
+# Executable files
+program
+a.out
+*.bin
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Directory untuk binary
+bin/
+build/
+dist/
+
+# File object
+*.obj
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Logs
+*.log
+
+# Backup files
+*.bak
+*.backup
