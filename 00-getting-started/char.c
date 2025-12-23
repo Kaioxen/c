@@ -14,9 +14,7 @@ int main()
 	_z = "Whyy Do You Learn C Language?";
 	_y = "Do You Like Coffe?";
     _w = "Do you know CR7?";
-     printf("%s\n, %s\n", _x, _z);  
-     printf("%s\n", _y);
-     printf("%s", _w);
+     printf("%s\n %s\n %s\n %s\n ", _x, _z, _y, _w);  
 
 
      	
