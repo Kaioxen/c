@@ -41,7 +41,7 @@ A practical exploration of C programming within unique constraints, driven by cu
 |------|--------|----------|-------------|
 | **Variables & Types** | ✅ | 100% | Review & apply |
 | **Basic I/O** | ✅ | 100% | Add formatting |
-| **Control Flow** | 🔄 | 40% | Complete `if/else` |
+| **Control Flow** | 🔄 |  0% | Complete `if/else` |
 | **Functions** | ⏳ | 0% | Start next week |
 | **Pointers** | ⏳ | 0% | Study memory basics |
-| **Projects** | 🔄 | 25% | Build calculator |
+
