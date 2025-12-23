@@ -25,7 +25,7 @@ int main()
 	
 
 	printf("hasil %d", _sum + _values);
-    printf("")	
+//    printf("")	
 }
 
 
