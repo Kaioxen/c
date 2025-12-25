@@ -2,7 +2,7 @@
 
 int main()
 {  int _x;  
-   printf("hasil nilai : %d", _x);
+   printf("hasil nilai : ");
    scanf("%d", &_x);
    if (_x == 17) {
    	printf("nilai yang kamu masukan adalah 17");
