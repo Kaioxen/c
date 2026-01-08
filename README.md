@@ -45,3 +45,40 @@ A practical exploration of C programming within unique constraints, driven by cu
 | **Functions** | ⏳ | 0% | Start next week |
 | **Pointers** | ⏳ | 0% | Study memory basics |
 
+### Structure
+
+```
+c/
+├── 00-getting-started/
+│   ├── basics/
+│   │   ├── hello.c
+│   │   └── retun.c
+│   ├── exercises/
+│   │   ├── cara-kerja.c
+│   │   ├── day2.c
+│   │   └── test.c
+│   └── variables/
+│       ├── char.c
+│       ├── float.c
+│       ├── int.c
+│       └── string.c
+├── 01-control-flow/
+│   ├── for.c
+│   ├── if-else.c
+│   ├── loops.c
+│   └── test.c
+├── Documentation/
+│   ├── Cheatsheet.md
+│   └── environment/
+│       ├── screenshots/
+│       │   ├── Screenshot_20251225-195549285.jpg
+│       │   └── neofetch.jpg
+│       └── system-spec.md
+├── README.md
+└── notes/
+    ├── daily-log.md
+    └── goals.md
+
+9 directories, 20 files
+
+```
