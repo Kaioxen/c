@@ -1,9 +1,5 @@
-%d    - integer
-%f    - float (%.2f untuk 2 desimal)
-%c    - character  
-%s    - string
-%p    - pointer address
-%lf   - double (long float)
-%u    - unsigned integer
-%x    - hexadecimal
-%%    - untuk print tanda persen (escape)
+%d    - Integer (decimal)              // printf("%d", 42);
+%f    - Float                          // printf("%f", 3.14);
+%.2f  - Float dengan 2 desimal         // printf("%.2f", 3.14159); → 3.14
+%c    - Character                      // printf("%c", 'A');
+%s    - String                         // printf("%s", "Hello");
