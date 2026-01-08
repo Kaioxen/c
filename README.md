@@ -5,7 +5,7 @@
 ![C Language](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ARM64](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-25%25-blue?style=flat-square)
+![Progress](https://img.shields.io/badge/Progress-10%10-blue?style=flat-square)
 
 ## About This Journey
 
@@ -27,7 +27,7 @@ A practical exploration of C programming within unique constraints, driven by cu
 
 ### Level 2: Control Flow (In Progress)
 - [x] Conditional statements (if/else)
-- [ ] Loops (for, while)
+- [x] Loops (for, while)
 - [ ] Switch statements
 
 ### Level 3: Memory & Pointers (Next Phase)
