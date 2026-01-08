@@ -35,16 +35,6 @@ A practical exploration of C programming within unique constraints, driven by cu
 - [ ] Memory addresses and management
 - [ ] Arrays and string manipulation
 
-## Learning Progress Matrix
-
-| Area | Status | Progress | Next Action |
-|------|--------|----------|-------------|
-| **Variables & Types** | ✅ | 100% | Review & apply |
-| **Basic I/O** | ✅ | 100% | Add formatting |
-| **Control Flow** | 🔄 |  100% | Complete `if/else` |
-| **Functions** | ⏳ | 0% | Start next week |
-| **Pointers** | ⏳ | 0% | Study memory basics |
-
 ### Structure
 
 ```
@@ -82,3 +72,13 @@ c/
 9 directories, 20 files
 
 ```
+
+## Learning Progress Matrix
+
+| Area | Status | Progress | Next Action |
+|------|--------|----------|-------------|
+| **Variables & Types** | ✅ | 100% | Review & apply |
+| **Basic I/O** | ✅ | 100% | Add formatting |
+| **Control Flow** | 🔄 |  100% | Complete `if/else` |
+| **Functions** | ⏳ | 0% | Start next week |
+| **Pointers** | ⏳ | 0% | Study memory basics |
