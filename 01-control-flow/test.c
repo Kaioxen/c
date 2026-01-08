@@ -3,15 +3,15 @@
 int main() 
 {   
     int _nilai = 74;
-        printf("HAI"); 
+        printf("Halo,,\n"); 
         printf("status nilai : ");
         scanf("%d", &_nilai);
-    if (_nilai > 74 ) {
+    if (_nilai > 78 ) {
         printf("lulus\n");    	
     } else {
      	printf("gagal\n");
     }
-        printf("END");
+        printf("END\n");
     
 	return 0;
 }
