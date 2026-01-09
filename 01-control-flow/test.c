@@ -2,11 +2,11 @@
 
 int main() 
 {   
-    int _nilai = 74;
+    int nilai = 74;
         printf("Halo,,\n"); 
         printf("status nilai : ");
-        scanf("%d", &_nilai);
-    if (_nilai > 78 ) {
+        scanf("%d", &nilai);
+    if (nilai > 78 ) {
         printf("lulus\n");    	
     } else {
      	printf("gagal\n");

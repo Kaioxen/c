@@ -2,18 +2,18 @@
 
 int main()
 {
-	char *_x;
-	char *_z;
-	char *_y;
-	char *_w;
-    char *_grade;
-    char _hello[] = "Hello";
-    char _my[] = "my";
-    char _name[] = "name";
-    char _is[] = "is";
-    char _wildan[] = "Wildan Hermawan";
-    char *_depan = "HELLO";
-    char *_belakang = "WORLD";
+	char *x;
+	char *z;
+	char *y;
+	char *w;
+    char *grade;
+    char hello[] = "Hello";
+    char my[] = "my";
+    char name[] = "name";
+    char is[] = "is";
+    char wildan[] = "Wildan Hermawan";
+    char *depan = "HELLO";
+    char *belakang = "WORLD";
 /*
     _hello = "Hello";
     _my = "my";
@@ -21,17 +21,17 @@ int main()
     _is = "is";
     _wildan = "Wildan";
   */  
-    _grade = "A";
-	printf("%s\n", _grade);
-	_x = "What Is Your Name?";
-	_z = "Whyy Do You Learn C Language?";
-	_y = "Do You Like Coffe?";
-    _w = "Do you know CR7?";
-    printf("%s %s %s %s\n ", _x, _z, _y, _w);  
+    grade = "A";
+	printf("%s\n", grade);
+	x = "What Is Your Name?";
+	z = "Whyy Do You Learn C Language?";
+	y = "Do You Like Coffe?";
+    w = "Do you know CR7?";
+    printf("%s %s %s %s\n ", x, z, y, w);  
 
-    printf("%d %d %d %d %d\n ", *_hello, *_my, *_name, *_is, *_wildan);
+    printf("%d %d %d %d %d\n ", *hello, *my, *name, *is, *wildan);
 
-       printf("%s%s\n", _depan, _belakang  
+       printf("%s%s\n", depan, belakang  
 );
 
 	return 0;

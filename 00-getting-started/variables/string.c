@@ -2,12 +2,12 @@
 
 int main()
 {
-	char _firstName[] = "Wildan";
-	int _age = 17;
-	char _my[] = "my";
+	char firstName[] = "Wildan";
+	int age = 17;
+	char my[] = "my";
 	
-	printf("Hello %s name is %s\n", _my, _firstName);
-	printf("_age %d years old", _age);
+	printf("Hello %s name is %s\n", my, firstName);
+	printf("_age %d years old", age);
 	
 	
 	return 0;

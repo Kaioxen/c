@@ -2,6 +2,6 @@
 
 int main()
 {
-	int _x = 5, _y = 10;
-	printf("%d dikali %d sama dengan %d", _x, _y, _x*_y);
+	int x = 5, y = 10;
+	printf("%d dikali %d sama dengan %d", x, y, x*y);
 }

@@ -4,7 +4,9 @@
 
 int main(void)
 {
-	int _x = 65;
-	printf("%c", _x);
+	int x = 65;
+        int y = 90;
+        int sum = x + y;
+	printf("%c\n", sum);
 	
 }
